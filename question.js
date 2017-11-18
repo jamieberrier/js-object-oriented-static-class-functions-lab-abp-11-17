@@ -1,7 +1,7 @@
 'use strict';
 class Question{
   constructor(){
-    
+
   }
 
   save(){
