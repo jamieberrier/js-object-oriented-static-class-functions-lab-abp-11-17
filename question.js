@@ -1,7 +1,6 @@
 'use strict';
 class Question{
-  constructor(id, content){
-    this.id = id
+  constructor(content){
     this.content = content
     this.save()
   }
